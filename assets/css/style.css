@@ -19,14 +19,15 @@
 
 html{
     max-width: 1440px;
-    margin: 0 auto;
+    margin: auto;
     scroll-behavior: smooth;
   }
 
  
 body {
     color:  #2B2C2E;
-    margin: 0;
+    
+    
 }
 header {
     display: flex;
